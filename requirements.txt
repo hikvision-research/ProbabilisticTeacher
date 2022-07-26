@@ -1,0 +1,6 @@
+numpy
+opencv-python==4.4.0.42
+Pillow==7.2.0
+pycocotools==2.0.4
+torch==1.7.1+cu110
+torchvision==0.8.2+cu110
